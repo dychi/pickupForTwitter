@@ -1,0 +1,2 @@
+# pickupForTwitter
+chatworkから受けたメッセージを元にシートに挿入
